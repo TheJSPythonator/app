@@ -2,7 +2,7 @@ Package: com.thejspythonator.app
 Name: app
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
+Description: Displays an alert on respring. 
 Maintainer: theJSPythonator 
 Author: theJSPythonator 
 Section: Tweaks
