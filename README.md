@@ -3,7 +3,7 @@ A simple alert on respring made with theos. Tested on iOS 12.5.7 (Darwin 18.7.0)
 # 1. Install Theos. 
 You can get Theos from [here](https://theos.dev/docs/).
 # 2. Set up SDKs 
-Download your SDKs from [here](https://github.com/theos/sdks). Put them in your sdks folder in your Theos installation, e.g if your Theos installation is in your home directory then put them in /home/username/theos/sdks. 
+Download your SDKs from [here](https://github.com/theos/sdks). Put them in the sdks folder of your Theos installation, e.g if your Theos installation is in your home directory then put them in /home/username/theos/sdks. 
 # 3. Compile 
 ``` cd ``` into where you cloned the repo and type ``` make package ```. That should do it. This will generate a .deb file in the packages folder. 
 # 4. Transfer 
